@@ -1,2 +1,6 @@
-# Website-Project
-This project was created during the Google Cloud AI Workshop. It demonstrates the deployment of a web application using Google Cloud Platform (GCP) and Cloud Run services. The project helped in learning cloud deployment, hosting, and AI-powered cloud technologies through hands-on practical implementation.
+# Google Cloud AI Workshop Project
+
+This project was created during the Google Cloud AI Workshop using Google Cloud Platform (GCP) and Cloud Run.
+
+## Live Website
+https://website-577407523191.asia-south1.run.app
